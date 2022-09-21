@@ -1,0 +1,12 @@
+TIMELINE PENGERJAAN FRONT-END WEBSITE
+	> [Jihan & Farhan] 1 - 2 September 2022 (Sosialisasi Magang di #ARPATEAM)
+	> [Jihan & Farhan] 5 - 10 September 2022 (Belajar Pengatar Teknologi Front-End Developer)
+	> [Jihan & Farhan] 12 - 13 September 2022 (Merancang teknologi yang digunakan)
+	> [Jihan & Farhan] 14 - 15 September 2022 (Merancang aset untuk website)
+	> [Jihan & Farhan] 16 - 17 September 2022 (Membuat Header, Menu & Footer Website)
+	> [Jihan] 19 - 23 September 2022 (Membuat Halaman Beranda & Halaman Opini)
+	> [Farhan] 19 - 23 September 2022 (Membuat Halaman Kegiatan & Halaman Penerbitan)
+	> [Jihan & Farhan] 24 - 26 September 2022 (Membuat Halaman Search)
+	> [Jihan & Farhan] 27 - 28 September 2022 (Melakukan testing website)
+	> [Jihan & Farhan] 29 - 30 September 2022 (Proses menyerahkan program ke #ARPATEAM)
+	> Timeline Pembuatan Website
