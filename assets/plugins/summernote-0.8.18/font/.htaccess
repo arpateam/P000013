@@ -1,0 +1,5 @@
+RewriteEngine On
+
+ErrorDocument 404 https://www.simbersama.bantulkab.go.id/404
+ErrorDocument 500 https://www.simbersama.bantulkab.go.id/404
+ErrorDocument 503 https://www.simbersama.bantulkab.go.id/404
